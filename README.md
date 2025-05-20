@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurudh Kumar Sharma</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">I'm a passionate **Software Developer** with a strong background in creating powerful applications using Python, Machine Learning, Django, HTML, CSS, and JavaScript. I continually strive to build innovative projects and improve my skills through diverse hands-on experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurudhkumarsharma&label=Profile%20views&color=0e75b6&style=flat" alt="anurudhkumarsharma" /> </p>
 
